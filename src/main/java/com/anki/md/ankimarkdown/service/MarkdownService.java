@@ -26,7 +26,7 @@ import java.util.stream.Collectors;
 @Slf4j
 public class MarkdownService {
     private static final String HTML_CARD_SEPARATOR = "<hr />";
-    private static final String ANKI_CARD_SEPARATOR = "\n";
+    private static final String CARD_SEPARATOR = "\n";
     private static final String MARKDOWN_LINE_BREAKERS = "[\\n\\r]+";
     private static final String TAB = "\t";
     private static final String EMPTY_LINES = "(?m)^\\s*\\r?\\n|\\r?\\n\\s*(?!.*\\r?\\n)";
@@ -44,9 +44,7 @@ public class MarkdownService {
         final String notesPlaneText = Arrays
                 .stream(blockquoteCardsSplit)
                 .map(MarkdownService::convertBlockquotesToPlainTextCard)
-                .collect(Collectors.joining(ANKI_CARD_SEPARATOR));
-
-        log.info(notesPlaneText);
+                .collect(Collectors.joining(CARD_SEPARATOR));
 
         createNotesPlaneTextFile(fileName, notesPlaneText);
 

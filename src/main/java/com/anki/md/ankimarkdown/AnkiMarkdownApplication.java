@@ -24,7 +24,9 @@ public class AnkiMarkdownApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws IOException {
-        final File file = new ClassPathResource("data/md/test_list.md").getFile();
-        markdownService.convertMarkdownToNotesPlaneText(file);
+        final File file = new ClassPathResource("data/md/german_driving_test.md").getFile();
+        final String notesPlaneText = markdownService.convertMarkdownToNotesPlaneText(file);
+
+        log.info(notesPlaneText);
     }
 }
