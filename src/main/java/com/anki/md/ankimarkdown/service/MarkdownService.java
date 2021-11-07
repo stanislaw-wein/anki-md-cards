@@ -5,6 +5,9 @@ import com.vladsch.flexmark.parser.Parser;
 import com.vladsch.flexmark.util.ast.Node;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.select.Elements;
 import org.springframework.stereotype.Service;
 
 import java.io.BufferedWriter;
@@ -34,16 +37,13 @@ public class MarkdownService {
 
     public String convertMarkdownToNotesPlaneText(final File markdownFile) throws IOException {
         final String fileName = markdownFile.getName();
-        final Node document = markdownParser.parse(new String(Files.readAllBytes(markdownFile.toPath())));
-        final String htmlCards = htmlRenderer.render(document);
-
-        final String[] htmlCardsSplit = htmlCards.split(HTML_CARD_SEPARATOR);
+        final Node markdownDocument = markdownParser.parse(new String(Files.readAllBytes(markdownFile.toPath())));
+        final String htmlBlockquoteCards = htmlRenderer.render(markdownDocument);
+        final String[] blockquoteCardsSplit = htmlBlockquoteCards.split(HTML_CARD_SEPARATOR);
 
         final String notesPlaneText = Arrays
-                .stream(htmlCardsSplit)
-                .map(item -> item
-                        .replaceAll(EMPTY_LINES, "")
-                        .replaceAll(MARKDOWN_LINE_BREAKERS, TAB))
+                .stream(blockquoteCardsSplit)
+                .map(MarkdownService::convertBlockquotesToPlainTextCard)
                 .collect(Collectors.joining(ANKI_CARD_SEPARATOR));
 
         log.info(notesPlaneText);
@@ -53,7 +53,16 @@ public class MarkdownService {
         return notesPlaneText;
     }
 
-    private void createNotesPlaneTextFile(final String fileName, final String content) throws IOException {
+
+    private static String convertBlockquotesToPlainTextCard(String item) {
+        final Document doc = Jsoup.parseBodyFragment(item);
+        final Elements ankiFields = doc.select("blockquote");
+        return ankiFields.stream()
+                .map(field -> field.html().replaceAll(EMPTY_LINES, "").replaceAll(MARKDOWN_LINE_BREAKERS, ""))
+                .collect(Collectors.joining(TAB));
+    }
+
+    private static void createNotesPlaneTextFile(final String fileName, final String content) throws IOException {
         final File fileout = new File(String.format(FILE_DESTINATION, fileName));
         final FileWriter fw = new FileWriter(fileout.getAbsoluteFile());
         try (BufferedWriter bw = new BufferedWriter(fw)) {
