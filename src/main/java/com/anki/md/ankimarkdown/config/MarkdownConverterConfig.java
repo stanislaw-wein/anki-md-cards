@@ -1,5 +1,6 @@
 package com.anki.md.ankimarkdown.config;
 
+import com.vladsch.flexmark.html.HtmlRenderer;
 import com.vladsch.flexmark.html2md.converter.FlexmarkHtmlConverter;
 import com.vladsch.flexmark.parser.Parser;
 import com.vladsch.flexmark.util.data.MutableDataSet;
@@ -10,12 +11,17 @@ import org.springframework.context.annotation.Configuration;
 public class MarkdownConverterConfig {
 
     @Bean
-    public FlexmarkHtmlConverter getHtmlToMarkdownConverter() {
+    public FlexmarkHtmlConverter htmlToMarkdownConverter() {
         return FlexmarkHtmlConverter.builder().build();
     }
 
     @Bean
-    public Parser getMarkdownParser() {
+    public HtmlRenderer htmlRenderer() {
+        return HtmlRenderer.builder().build();
+    }
+
+    @Bean
+    public Parser markdownParser() {
         final MutableDataSet options = new MutableDataSet();
 
         // uncomment to set optional extensions
