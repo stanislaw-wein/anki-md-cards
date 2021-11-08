@@ -26,6 +26,7 @@ import java.util.stream.Collectors;
 @Slf4j
 public class MarkdownService {
     public static final String HTML_CARD_SEPARATOR = "<hr />";
+    public static final String HTML_FIELD_SELECTOR = "blockquote";
     public static final String CARD_SEPARATOR = "\n";
     public static final String FIELD_SEPARATOR = "\t";
     public static final String MARKDOWN_LINE_BREAKERS = "[\\n\\r]+";
@@ -55,7 +56,7 @@ public class MarkdownService {
 
     private static String convertBlockquotesToPlainTextCard(String item) {
         final Document doc = Jsoup.parseBodyFragment(item);
-        final Elements ankiFields = doc.select("blockquote");
+        final Elements ankiFields = doc.select(HTML_FIELD_SELECTOR);
         return ankiFields.stream()
                 .map(field -> field.html().replaceAll(EMPTY_LINES, "").replaceAll(MARKDOWN_LINE_BREAKERS, ""))
                 .collect(Collectors.joining(FIELD_SEPARATOR));

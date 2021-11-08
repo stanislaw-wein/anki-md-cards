@@ -268,22 +268,195 @@ ___
 
 ___
 
+> ## Schlussleuchten mit Kennzeichenbeleuchtung
 
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Фонарь заднего света с подсветкой номерного знака
 
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Tail lights with license plate lighting
 
+> v.1.0.0
 
+___
 
+> ## Nebelschlussleuchte
 
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Задний противотуманный фонарь
 
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Rear fog light
 
+> v.1.0.0
 
+___
 
+> ## Warnblinkanlage
 
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Аварийная сигнализация
 
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Hazard warning lights
 
+> v.1.0.0
 
+___
 
+> ## Blinker
 
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Указатель поворота
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Indicator
+
+> v.1.0.0
+
+___
+
+> ## Hupe
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Звуковой сигнал
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Horn
+
+> v.1.0.0
+
+___
+
+> ## Kontrollleuchten benennen
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Назвать контрольные фонари
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Name the control lights
+
+> v.1.0.0
+
+___
+
+> ## Rückstrahler
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Отражатель
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Reflector
+
+> v.1.0.0
+
+___
+
+> ## Vorhanden sein
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Быть в наличии
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") To be available
+
+> v.1.0.0
+
+___
+
+> ## Beschädigung
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Повреждение
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Damage
+
+> v.1.0.0
+
+___
+
+> ## Lenkung
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Рулевое управление
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Steering
+
+> v.1.0.0
+
+___
+
+> ## Lenkschloss entriegeln
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Разблокировка замка рулевого управления
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Unlock the steering lock
+
+> v.1.0.0
+
+___
+
+> ## Bremsanlage
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Система торможения
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Braking system
+
+> v.1.0.0
+
+___
+
+> ## Betriebsbremse (Fußbremse)
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Рабочий тормоз (ножной тормоз)
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Service brake (foot brake)
+
+> v.1.0.0
+
+___
+
+> ## Feststellbremse
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Стояночный тормоз
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Parking brake
+
+> v.1.0.0
+
+___
+
+> ## Flüssigkeitsstände prüfen
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Проверить уровни жидкости
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Check fluid levels
+
+> v.1.0.0
+
+___
+
+> ## Motoröl
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Моторное масло
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Engine oil
+
+> v.1.0.0
+
+___
+
+> ## Kühlmittel
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Охлаждающая жидкость
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Coolant
+
+> v.1.0.0
+
+___
+
+> ## Scheibenwaschflüssigkeit
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Жидкость для автостекол
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Washer fluid
+
+> v.1.0.0
+
+___
+
+> ## Reifen kontrollieren
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Проверьте шины
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Check tires
+
+> v.1.0.0
+
+___
 
 
 
