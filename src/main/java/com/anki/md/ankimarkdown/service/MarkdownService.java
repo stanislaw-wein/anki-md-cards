@@ -32,6 +32,7 @@ public class MarkdownService {
     public static final String MARKDOWN_LINE_BREAKERS = "[\\n\\r]+";
     public static final String EMPTY_LINES = "(?m)^\\s*\\r?\\n|\\r?\\n\\s*(?!.*\\r?\\n)";
     public static final String FILE_DESTINATION = "src/main/resources/data/notesplanetext/%s.txt";
+    public static final int FIRST_CARD = 0;
 
     private final Parser markdownParser;
     private final HtmlRenderer htmlRenderer;
@@ -40,6 +41,7 @@ public class MarkdownService {
         final Node markdownDocument = markdownParser.parse(new String(Files.readAllBytes(markdownFile.toPath())));
         final String htmlBlockquoteCards = htmlRenderer.render(markdownDocument);
         final String[] blockquoteCardsSplit = htmlBlockquoteCards.split(HTML_CARD_SEPARATOR);
+        validateHtmlCards(blockquoteCardsSplit);
 
         return Arrays.stream(blockquoteCardsSplit)
                 .map(MarkdownService::convertBlockquotesToPlainTextCard)
@@ -60,6 +62,24 @@ public class MarkdownService {
         return ankiFields.stream()
                 .map(field -> field.html().replaceAll(EMPTY_LINES, "").replaceAll(MARKDOWN_LINE_BREAKERS, ""))
                 .collect(Collectors.joining(FIELD_SEPARATOR));
+    }
+
+    private static void validateHtmlCards(final String[] htmlCards) {
+        if (htmlCards == null || htmlCards.length == 0) {
+            log.error("No cards detected");
+            throw new RuntimeException("No cards detected");
+        }
+        final int numberOfFields = getNumberOfFields(htmlCards[FIRST_CARD]);
+        log.info("Number of fields in the card: {}", numberOfFields);
+        Arrays.asList(htmlCards).forEach(item -> {
+            if (getNumberOfFields(item) != numberOfFields) {
+                log.error("The card has an incorrect number of fields: {}", item);
+            }
+        });
+    }
+
+    private static int getNumberOfFields(String htmlCard) {
+        return Jsoup.parseBodyFragment(htmlCard).getElementsByTag(HTML_FIELD_SELECTOR).size();
     }
 
 }
