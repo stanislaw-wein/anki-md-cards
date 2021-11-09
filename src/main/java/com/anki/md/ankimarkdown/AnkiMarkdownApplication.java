@@ -24,6 +24,9 @@ public class AnkiMarkdownApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws IOException {
+        // TODO add console input for file source
+        // TODO add validator
+
         final File file = new ClassPathResource("data/md/german_driving_test.md").getFile();
         final String notesPlaneText = markdownService.convertMarkdownToNotesPlaneText(file);
         MarkdownService.createNotesPlaneTextFile(file.getName(), notesPlaneText);

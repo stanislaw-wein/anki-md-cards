@@ -458,15 +458,125 @@ ___
 
 ___
 
+> ## Beschädigungen
 
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Повреждения
 
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Damage
 
+> v.1.0.0
 
+___
 
+> ## Profiltiefe
 
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Глубина профиля
 
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Tread depth
 
+> v.1.0.0
 
+___
+
+> ## Reifendruck
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Давление в шинах
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Tire pressure
+
+> v.1.0.0
+
+___
+
+> ## Fahrzeugbegriffe
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Автомобильные термины
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Vehicle terms
+
+> v.1.0.0
+
+___
+
+> ## Sicherheitsgurt
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Ремень безопасности
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Seat belt
+
+> v.1.0.0
+
+___
+
+> ## Lenkrad
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Руль
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Steering wheel
+
+> v.1.0.0
+
+___
+
+> ## Kupplung
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Сцепление
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Clutch
+
+> v.1.0.0
+
+___
+
+> ## Bremse
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Тормоз
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Brake
+
+> v.1.0.0
+
+___
+
+> ## Handbremse
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Ручной тормоз
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Hand brake
+
+> v.1.0.0
+
+___
+
+> ## Schalthebel
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Рычаг переключения
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Gear lever
+
+> v.1.0.0
+
+___
+
+> ## Erster / zweiter / dritter / vierter / fünfter Gang
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Первая / вторая / третья / четвертая / пятая передача
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") First / second / third / fourth / fifth gear
+
+> v.1.0.0
+
+___
+
+> ## Scheibenwischer
+
+> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Стеклоочиститель
+
+> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Windshield wipers
+
+> v.1.0.0
+
+___
 
 
 
