@@ -14,6 +14,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.util.Arrays;
 import java.util.stream.Collectors;
@@ -50,7 +51,7 @@ public class MarkdownService {
 
     public static void createNotesPlaneTextFile(final String fileName, final String content) throws IOException {
         final File fileout = new File(String.format(FILE_DESTINATION, fileName));
-        final FileWriter fw = new FileWriter(fileout.getAbsoluteFile());
+        final FileWriter fw = new FileWriter(fileout.getAbsoluteFile(), StandardCharsets.UTF_8);
         try (BufferedWriter bw = new BufferedWriter(fw)) {
             bw.write(content);
         }
@@ -70,10 +71,10 @@ public class MarkdownService {
             throw new RuntimeException("No cards detected");
         }
         final int numberOfFields = getNumberOfFields(htmlCards[FIRST_CARD]);
-        log.info("Number of fields in the card: {}", numberOfFields);
+        log.info("Number of cards is {}; Number of fields in the card is: {}", htmlCards.length, numberOfFields);
         Arrays.asList(htmlCards).forEach(item -> {
             if (getNumberOfFields(item) != numberOfFields) {
-                log.error("The card has an incorrect number of fields: {}", item);
+                log.warn("This card has an incorrect number of fields: {}", item);
             }
         });
     }

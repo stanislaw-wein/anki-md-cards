@@ -34,4 +34,16 @@ class MarkdownServiceTest {
         assertEquals(1, numberOfCardSeparators);
         assertEquals(6, numberOfFieldSeparators);
     }
+
+    @Test
+    void whenFieldsWithoutBlockquote_thenTheseFieldsAreOmitted() throws IOException {
+        final File file = new ClassPathResource("data/test_data_02.md").getFile();
+
+        final String result = this.markdownService.convertMarkdownToNotesPlaneText(file);
+
+        final int numberOfCardSeparators = StringUtils.countOccurrencesOf(result, CARD_SEPARATOR);
+        final int numberOfFieldSeparators = StringUtils.countOccurrencesOf(result, FIELD_SEPARATOR);
+        assertEquals(1, numberOfCardSeparators);
+        assertEquals(3, numberOfFieldSeparators);
+    }
 }
