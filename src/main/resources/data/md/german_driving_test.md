@@ -1,8 +1,8 @@
 > ## Angabe während der Prüfungsfahrt
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Указания во время дорожного испытания
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Указания во время дорожного испытания
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Instructions during the driving test
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Instructions during the driving test
 
 > v.1.0.0
 
@@ -10,9 +10,9 @@ ___
 
 > ## Links
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Налево
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Налево
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") To the left
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") To the left
 
 > v.1.0.0
 
@@ -20,9 +20,9 @@ ___
 
 > ## Rechts
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Направо
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Направо
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") To the right
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") To the right
 
 > v.1.0.0
 
@@ -30,9 +30,9 @@ ___
 
 > ## Nächste Straße (links / rechts)
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Следующая улица (налево / направо)
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Следующая улица (налево / направо)
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Next street (left / right)
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Next street (left / right)
 
 > v.1.0.0
 
@@ -40,9 +40,9 @@ ___
 
 > ## Halb links/rechts abbiegen
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Повернуть наполовину налево / направо
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Повернуть наполовину налево / направо
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Turn half left/right
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Turn half left/right
 
 > v.1.0.0
 
@@ -50,9 +50,9 @@ ___
 
 > ## Erste / zweite / dritte Straße rechts (Kreisverkehr)
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Первая / вторая / третья улица направо (круговой перекрёсток)
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Первая / вторая / третья улица направо (круговой перекрёсток)
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") First/second/third street to the right (roundabout)
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") First/second/third street to the right (roundabout)
 
 > v.1.0.0
 
@@ -60,9 +60,9 @@ ___
 
 > ## Erste / zweite / dritte Ausfahrt nehmen
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Выехать на первый / второй / третий съезд
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Выехать на первый / второй / третий съезд
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Go to the first / second / third exit
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Go to the first / second / third exit
 
 > v.1.0.0
 
@@ -70,9 +70,9 @@ ___
 
 > ## Der Vorfahrtsstraße folgen
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Ехать по главной дороге
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Ехать по главной дороге
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Drive on the main road
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Drive on the main road
 
 > v.1.0.0
 
@@ -80,9 +80,9 @@ ___
 
 > ## In Richtung … fahren
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Ехать в направлении ...
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Ехать в направлении ...
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Drive in the direction of ...
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Drive in the direction of ...
 
 > v.1.0.0
 
@@ -90,9 +90,9 @@ ___
 
 > ## Wenn nichts gesagt wird, geht es geradeaus
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Если ничего не сказано, ехать прямо
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Если ничего не сказано, ехать прямо
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") If nothing is said, go straight
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") If nothing is said, go straight
 
 > v.1.0.0
 
@@ -100,9 +100,9 @@ ___
 
 > ## Richtung Autobahn / Kraftfahrstraße
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Направление на автостраду / автомобильную магистраль
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Направление на автостраду / автомобильную магистраль
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Direction to motorway / highway
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Direction to motorway / highway
 
 > v.1.0.0
 
@@ -110,9 +110,9 @@ ___
 
 > ## Manöverangaben
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Указания для маневрирования
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Указания для маневрирования
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Maneuvering information
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Maneuvering information
 
 > v.1.0.0
 
@@ -120,9 +120,9 @@ ___
 
 > ## Anhalten
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Остановиться
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Остановиться
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Stop
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Stop
 
 > v.1.0.0
 
@@ -130,9 +130,9 @@ ___
 
 > ## Rückwärts fahren (links / rechts)
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Ехать задним ходом (налево / направо)
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Ехать задним ходом (налево / направо)
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Drive backwards (left / right)
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Drive backwards (left / right)
 
 > v.1.0.0
 
@@ -140,9 +140,9 @@ ___
 
 > ## Vorwärts fahren (links / rechts)
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Ехать вперёд (налево / направо)
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Ехать вперёд (налево / направо)
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Drive forward (left / right)
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Drive forward (left / right)
 
 > v.1.0.0
 
@@ -150,9 +150,9 @@ ___
 
 > ## Einparken längs / quer (vorwärts / rückwärts)
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Припарковаться вдоль / поперек (вперед / назад)
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Припарковаться вдоль / поперек (вперед / назад)
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Parking lengthways / crossways (forwards / backwards)
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Parking lengthways / crossways (forwards / backwards)
 
 > v.1.0.0
 
@@ -160,9 +160,9 @@ ___
 
 > ## Umkehren
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Повернуть назад
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Повернуть назад
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Turning back
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Turning back
 
 > v.1.0.0
 
@@ -170,9 +170,9 @@ ___
 
 > ## Hinter dem Fahrzeug einparken
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Припарковаться позади автотранспортного средства
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Припарковаться позади автотранспортного средства
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Park behind the vehicle
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Park behind the vehicle
 
 > v.1.0.0
 
@@ -180,9 +180,9 @@ ___
 
 > ## Zwischen Fahrzeugen einparken
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Припарковаться между автотранспортными средствами
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Припарковаться между автотранспортными средствами
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Park between vehicles
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Park between vehicles
 
 > v.1.0.0
 
@@ -190,9 +190,9 @@ ___
 
 > ## Gefahrbremsung / Abbremsen mit höchstmöglicher Verzögerung
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Аварийное торможение / торможение с максимально возможным замедлением
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Аварийное торможение / торможение с максимально возможным замедлением
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Emergency braking / braking with the greatest possible deceleration
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Emergency braking / braking with the greatest possible deceleration
 
 > v.1.0.0
 
@@ -200,9 +200,9 @@ ___
 
 > ## Sicherheitskontrolle
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Контроль безопасности
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Контроль безопасности
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Security control
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Security control
 
 > v.1.0.0
 
@@ -210,9 +210,9 @@ ___
 
 > ## Funktion von ... prüfen
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Проверить работу ...
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Проверить работу ...
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Check function of ...
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Check function of ...
 
 > v.1.0.0
 
@@ -220,9 +220,9 @@ ___
 
 > ## Ein- und Ausschalten von
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Включить и выключить ...
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Включить и выключить ...
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Switching on and off
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Switching on and off
 
 > v.1.0.0
 
@@ -230,9 +230,9 @@ ___
 
 > ## Zeigen von
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Показать ...
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Показать ...
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Show of
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Show of
 
 > v.1.0.0
 
@@ -240,9 +240,9 @@ ___
 
 > ## Standlicht
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Стояночный свет
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Стояночный свет
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Parking light
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Parking light
 
 > v.1.0.0
 
@@ -250,9 +250,9 @@ ___
 
 > ## Abblendlicht
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Ближний свет
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Ближний свет
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Dimmed Headlights
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Dimmed Headlights
 
 > v.1.0.0
 
@@ -260,9 +260,9 @@ ___
 
 > ## Fernlicht
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Дальний свет
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Дальний свет
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") High beam
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") High beam
 
 > v.1.0.0
 
@@ -270,9 +270,9 @@ ___
 
 > ## Schlussleuchten mit Kennzeichenbeleuchtung
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Фонарь заднего света с подсветкой номерного знака
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Фонарь заднего света с подсветкой номерного знака
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Tail lights with license plate lighting
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Tail lights with license plate lighting
 
 > v.1.0.0
 
@@ -280,9 +280,9 @@ ___
 
 > ## Nebelschlussleuchte
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Задний противотуманный фонарь
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Задний противотуманный фонарь
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Rear fog light
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Rear fog light
 
 > v.1.0.0
 
@@ -290,9 +290,9 @@ ___
 
 > ## Warnblinkanlage
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Аварийная сигнализация
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Аварийная сигнализация
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Hazard warning lights
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Hazard warning lights
 
 > v.1.0.0
 
@@ -300,9 +300,9 @@ ___
 
 > ## Blinker
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Указатель поворота
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Указатель поворота
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Indicator
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Indicator
 
 > v.1.0.0
 
@@ -310,9 +310,9 @@ ___
 
 > ## Hupe
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Звуковой сигнал
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Звуковой сигнал
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Horn
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Horn
 
 > v.1.0.0
 
@@ -320,9 +320,9 @@ ___
 
 > ## Kontrollleuchten benennen
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Назвать контрольные фонари
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Назвать контрольные фонари
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Name the control lights
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Name the control lights
 
 > v.1.0.0
 
@@ -330,9 +330,9 @@ ___
 
 > ## Rückstrahler
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Отражатель
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Отражатель
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Reflector
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Reflector
 
 > v.1.0.0
 
@@ -340,9 +340,9 @@ ___
 
 > ## Vorhanden sein
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Быть в наличии
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Быть в наличии
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") To be available
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") To be available
 
 > v.1.0.0
 
@@ -350,9 +350,9 @@ ___
 
 > ## Beschädigung
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Повреждение
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Повреждение
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Damage
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Damage
 
 > v.1.0.0
 
@@ -360,9 +360,9 @@ ___
 
 > ## Lenkung
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Рулевое управление
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Рулевое управление
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Steering
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Steering
 
 > v.1.0.0
 
@@ -370,9 +370,9 @@ ___
 
 > ## Lenkschloss entriegeln
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Разблокировка замка рулевого управления
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Разблокировка замка рулевого управления
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Unlock the steering lock
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Unlock the steering lock
 
 > v.1.0.0
 
@@ -380,9 +380,9 @@ ___
 
 > ## Bremsanlage
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Система торможения
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Система торможения
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Braking system
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Braking system
 
 > v.1.0.0
 
@@ -390,9 +390,9 @@ ___
 
 > ## Betriebsbremse (Fußbremse)
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Рабочий тормоз (ножной тормоз)
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Рабочий тормоз (ножной тормоз)
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Service brake (foot brake)
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Service brake (foot brake)
 
 > v.1.0.0
 
@@ -400,9 +400,9 @@ ___
 
 > ## Feststellbremse
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Стояночный тормоз
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Стояночный тормоз
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Parking brake
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Parking brake
 
 > v.1.0.0
 
@@ -410,9 +410,9 @@ ___
 
 > ## Flüssigkeitsstände prüfen
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Проверить уровни жидкости
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Проверить уровни жидкости
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Check fluid levels
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Check fluid levels
 
 > v.1.0.0
 
@@ -420,9 +420,9 @@ ___
 
 > ## Motoröl
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Моторное масло
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Моторное масло
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Engine oil
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Engine oil
 
 > v.1.0.0
 
@@ -430,9 +430,9 @@ ___
 
 > ## Kühlmittel
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Охлаждающая жидкость
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Охлаждающая жидкость
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Coolant
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Coolant
 
 > v.1.0.0
 
@@ -440,9 +440,9 @@ ___
 
 > ## Scheibenwaschflüssigkeit
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Жидкость для автостекол
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Жидкость для автостекол
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Washer fluid
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Washer fluid
 
 > v.1.0.0
 
@@ -450,9 +450,9 @@ ___
 
 > ## Reifen kontrollieren
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Проверьте шины
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Проверьте шины
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Check tires
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Check tires
 
 > v.1.0.0
 
@@ -460,9 +460,9 @@ ___
 
 > ## Beschädigungen
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Повреждения
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Повреждения
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Damage
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Damage
 
 > v.1.0.0
 
@@ -470,9 +470,9 @@ ___
 
 > ## Profiltiefe
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Глубина профиля
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Глубина профиля
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Tread depth
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Tread depth
 
 > v.1.0.0
 
@@ -480,9 +480,9 @@ ___
 
 > ## Reifendruck
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Давление в шинах
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Давление в шинах
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Tire pressure
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Tire pressure
 
 > v.1.0.0
 
@@ -490,9 +490,9 @@ ___
 
 > ## Fahrzeugbegriffe
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Автомобильные термины
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Автомобильные термины
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Vehicle terms
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Vehicle terms
 
 > v.1.0.0
 
@@ -500,9 +500,9 @@ ___
 
 > ## Sicherheitsgurt
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Ремень безопасности
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Ремень безопасности
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Seat belt
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Seat belt
 
 > v.1.0.0
 
@@ -510,9 +510,9 @@ ___
 
 > ## Lenkrad
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Руль
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Руль
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Steering wheel
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Steering wheel
 
 > v.1.0.0
 
@@ -520,9 +520,9 @@ ___
 
 > ## Kupplung
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Сцепление
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Сцепление
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Clutch
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Clutch
 
 > v.1.0.0
 
@@ -530,9 +530,9 @@ ___
 
 > ## Bremse
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Тормоз
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Тормоз
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Brake
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Brake
 
 > v.1.0.0
 
@@ -540,9 +540,9 @@ ___
 
 > ## Handbremse
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Ручной тормоз
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Ручной тормоз
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Hand brake
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Hand brake
 
 > v.1.0.0
 
@@ -550,9 +550,9 @@ ___
 
 > ## Schalthebel
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Рычаг переключения
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Рычаг переключения
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Gear lever
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Gear lever
 
 > v.1.0.0
 
@@ -560,9 +560,9 @@ ___
 
 > ## Erster / zweiter / dritter / vierter / fünfter Gang
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Первая / вторая / третья / четвертая / пятая передача
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Первая / вторая / третья / четвертая / пятая передача
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") First / second / third / fourth / fifth gear
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") First / second / third / fourth / fifth gear
 
 > v.1.0.0
 
@@ -570,19 +570,248 @@ ___
 
 > ## Scheibenwischer
 
-> #### ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Стеклоочиститель
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Стеклоочиститель
 
-> #### ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Windshield wipers
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Windshield wipers
 
 > v.1.0.0
 
 ___
 
+> ## Lichtschalter
 
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Переключатель света
 
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Light switch
 
+> v.1.0.0
 
+___
 
+> ## Heizung
 
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Обогреватель
 
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Heater
 
+> v.1.0.0
+
+___
+
+> ## Motorhaube öffnen
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Открыть капот
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Open the bonnet
+
+> v.1.0.0
+
+___
+
+> ## Räder kontrollieren
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Открыть капот
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Open the bonnet
+
+> v.1.0.0
+
+___
+
+> ## Fenster öffnen / schließen
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Окна открыть / закрыть
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Open / close window
+
+> v.1.0.0
+
+___
+
+> ## Spiegel (einstellen)
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Зеркало (настроить)
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Mirror (adjust)
+
+> v.1.0.0
+
+___
+
+> ## Außenspiegel (einstellen)
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Наружные зеркала (настроить)
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Exterior mirrors (adjust)
+
+> v.1.0.0
+
+___
+
+> ## Heckscheibenheizung einschalten
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Включение обогрева заднего стекла
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Switch on the heated rear window
+
+> v.1.0.0
+
+___
+
+> ## Fahrtechnischer Abschluss
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Аттестация технических навыков вождения
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Technical driving qualification
+
+> v.1.0.0
+
+___
+
+> ## Sicherung / Sichern gegen
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Предохранение / предохранить от
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Securing / securing against
+
+> v.1.0.0
+
+___
+
+> ## Wegrollen
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Откатывать
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Rolling away
+
+> v.1.0.0
+
+___
+
+> ## Unbefugte Benutzung
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Недозволенное использование
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Unauthorised use
+
+> v.1.0.0
+
+___
+
+> ## Umschau / Umsicht beim Aussteigen
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Оглянуться / осмотреться при выходе из машины
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Look around / Caution when getting out
+
+> v.1.0.0
+
+___
+
+> ## Abschluss der Prüfung
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Завершение экзамена
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Completion of the examination
+
+> v.1.0.0
+
+___
+
+> ## Prüfung [nicht] bestanden
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Экзамен [не] сдан
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Exam [not] passed
+
+> v.1.0.0
+
+___
+
+> ## Erhebliches Fehlverhalten
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Совершил серьезный проступок
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Significant misconduct
+
+> v.1.0.0
+
+___
+
+> ## Häufung oder Wiederholung von Fehlern
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Частые или повторяющиеся ошибки
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Frequent or repeated mistakes
+
+> v.1.0.0
+
+___
+
+> ## Grundfahraufgabe wiederholt fehlerhaft
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Основная задача вождения опять выполнена с ошибками
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Basic driving task is again completed with mistakes
+
+> v.1.0.0
+
+___
+
+> ## Gefährdung
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Опасность
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Danger
+
+> v.1.0.0
+
+___
+
+> ## Zu langsam / schnell
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Слишком медленно / быстро
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Too slow / fast
+
+> v.1.0.0
+
+___
+
+> ## Unsicher
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Неуверенно
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Unconfident
+
+> v.1.0.0
+
+___
+
+> ## Fehlende Verkehrsbeobachtung bei …
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Отсутствие наблюдения за транспортом при …
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Lack of traffic monitoring  in case of …
+
+> v.1.0.0
+
+___
+
+> ## Fehlende oder ungenügende Spiegelbeobachtung
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Не смотрел или недостаточно хорошо смотрел в зеркало
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Missing or insufficient mirror observation
+
+> v.1.0.0
+
+___
+
+> ## Fehlendes vorausschauendes Fahren
+
+> ![RU](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/RU.png "Russian Language") Отсутствие упреждающего вождения
+
+> ![EN](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/GB.png "English Language") Lack of anticipatory driving
+
+> v.1.0.0
