@@ -1,10 +1,11 @@
 > ### Angabe während der Prüfungsfahrt
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/angabe-während-der-prüfungsfahrt.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Указания во время дорожного испытания
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Instructions during the driving test
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -69,12 +70,13 @@ ___
 ___
 
 > ### Der Vorfahrtsstraße folgen
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/der-vorfahrtsstraße-folgen.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Ехать по главной дороге
 
-> ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Drive on the main road
+> ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Follow the main road
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -89,12 +91,13 @@ ___
 ___
 
 > ### Wenn nichts gesagt wird, geht es geradeaus
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/geht-es-geradeaus.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Если ничего не сказано, ехать прямо
 
-> ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") If nothing is said, go straight
+> ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") If nothing is said, go straight ahead
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -109,12 +112,13 @@ ___
 ___
 
 > ### Manöverangaben
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/manöverangaben.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Указания для маневрирования
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Maneuvering information
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -169,12 +173,13 @@ ___
 ___
 
 > ### Hinter dem Fahrzeug einparken
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/hinter-dem-fahrzeug-einparken.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Припарковаться позади автотранспортного средства
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Park behind the vehicle
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -189,22 +194,24 @@ ___
 ___
 
 > ### Gefahrbremsung / Abbremsen mit höchstmöglicher Verzögerung
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/gefahrbremsung.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Аварийное торможение / торможение с максимально возможным замедлением
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Emergency braking / braking with the greatest possible deceleration
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
 > ### Sicherheitskontrolle
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/sicherheitskontrolle.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Контроль безопасности
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Security control
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -269,22 +276,24 @@ ___
 ___
 
 > ### Schlussleuchten mit Kennzeichenbeleuchtung
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/schlussleuchten-mit-kennzeichenbeleuchtung.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Фонарь заднего света с подсветкой номерного знака
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Tail lights with license plate lighting
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
 > ### Nebelschlussleuchte
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/nebelschlussleuchte.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Задний противотуманный фонарь
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Rear fog light
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -873,7 +882,6 @@ ___
 ___
 
 > ### LKW
-> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/lkw.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Грузовой автомобиль
 
