@@ -6,10 +6,11 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.core.io.ClassPathResource;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStreamReader;
 
 @Slf4j
 @AllArgsConstructor
@@ -24,9 +25,12 @@ public class AnkiMarkdownApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws IOException {
-        // TODO add console input for file source
+        final BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        log.info("\n >>> Please enter the markdown file path");
+        final String markdownFilePath = reader.readLine();
+        final File file = new File(markdownFilePath);
+        log.info("\n >>> The file [{}] will be converted to a Anki Plain Test", file.getName());
 
-        final File file = new ClassPathResource("data/md/german_driving_test.md").getFile();
         final String notesPlaneText = markdownService.convertMarkdownToNotesPlaneText(file);
         MarkdownService.createNotesPlaneTextFile(file.getName(), notesPlaneText);
 
