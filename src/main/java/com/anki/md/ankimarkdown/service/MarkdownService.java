@@ -50,7 +50,7 @@ public class MarkdownService {
     private static String convertHtmlCardToPlainTextCard(final String htmlCard) {
         return Jsoup.parseBodyFragment(htmlCard).body().childNodes()
                     .stream()
-                    .filter(node -> !(node instanceof TextNode textNode && textNode.isBlank())) // blank line is field separator
+                    .filter(node -> !(node instanceof TextNode textNode && textNode.isBlank())) // blank line is a field separator
                     .map(node -> node.toString()
                                      .replaceAll(EMPTY_LINES, "")
                                      .replaceAll(MARKDOWN_LINE_BREAKERS, ""))
