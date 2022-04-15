@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 public class MarkdownConverterConfig {
     private static final MutableDataSet options = new MutableDataSet()
             .set(HtmlRenderer.SOFT_BREAK, "<br />\n")
-            .set(HtmlRenderer.MAX_BLANK_LINES, 2)
+            .set(HtmlRenderer.MAX_BLANK_LINES, 1)
             .set(Parser.BLANK_LINES_IN_AST, true);
 
     @Bean

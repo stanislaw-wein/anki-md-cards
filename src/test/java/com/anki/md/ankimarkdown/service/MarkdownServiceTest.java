@@ -1,5 +1,6 @@
 package com.anki.md.ankimarkdown.service;
 
+import com.anki.md.ankimarkdown.exception.ValidationException;
 import com.vladsch.flexmark.html.HtmlRenderer;
 import com.vladsch.flexmark.parser.Parser;
 import org.junit.jupiter.api.BeforeEach;
@@ -12,7 +13,7 @@ import java.io.IOException;
 
 import static com.anki.md.ankimarkdown.service.MarkdownService.PLANE_TEXT_CARD_SEPARATOR;
 import static com.anki.md.ankimarkdown.service.MarkdownService.PLANE_TEXT_FIELD_SEPARATOR;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.*;
 
 class MarkdownServiceTest {
 
@@ -36,14 +37,11 @@ class MarkdownServiceTest {
     }
 
     @Test
-    void whenFieldsWithoutBlockquote_thenTheseFieldsAreOmitted() throws IOException {
+    void whenLastCardEndsWirthCardSeparator_thenExceptionIsThrown() throws IOException {
         final File file = new ClassPathResource("data/test_data_02.md").getFile();
 
-        final String result = this.markdownService.convertMarkdownToNotesPlaneText(file);
+        ValidationException thrown = assertThrows(ValidationException.class, () -> this.markdownService.convertMarkdownToNotesPlaneText(file));
 
-        final int numberOfCardSeparators = StringUtils.countOccurrencesOf(result, PLANE_TEXT_CARD_SEPARATOR);
-        final int numberOfFieldSeparators = StringUtils.countOccurrencesOf(result, PLANE_TEXT_FIELD_SEPARATOR);
-        assertEquals(1, numberOfCardSeparators);
-        assertEquals(3, numberOfFieldSeparators);
+        assertTrue(thrown.getMessage().contains("The Markdown file must not end with a card separator"));
     }
 }
