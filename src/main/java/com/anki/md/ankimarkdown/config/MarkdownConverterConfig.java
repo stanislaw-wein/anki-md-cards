@@ -9,28 +9,27 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class MarkdownConverterConfig {
+    private static final MutableDataSet options = new MutableDataSet()
+            .set(HtmlRenderer.SOFT_BREAK, "<br />\n")
+            .set(HtmlRenderer.MAX_BLANK_LINES, 2)
+            .set(Parser.BLANK_LINES_IN_AST, true);
 
     @Bean
     public FlexmarkHtmlConverter htmlToMarkdownConverter() {
-        return FlexmarkHtmlConverter.builder().build();
+        return FlexmarkHtmlConverter.builder()
+                                    .build();
     }
 
     @Bean
     public HtmlRenderer htmlRenderer() {
-        return HtmlRenderer.builder().build();
+        return HtmlRenderer.builder(options)
+                           .build();
     }
 
     @Bean
     public Parser markdownParser() {
-        final MutableDataSet options = new MutableDataSet();
-
-        // uncomment to set optional extensions
-        //options.set(Parser.EXTENSIONS, Arrays.asList(TablesExtension.create(), StrikethroughExtension.create()));
-
-        // uncomment to convert soft-breaks to hard breaks
-        //options.set(HtmlRenderer.SOFT_BREAK, "<br />\n");
-
-        return Parser.builder(options).build();
+        return Parser.builder(options)
+                     .build();
     }
 
 }

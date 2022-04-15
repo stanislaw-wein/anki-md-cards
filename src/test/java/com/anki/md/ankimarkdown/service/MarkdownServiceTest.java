@@ -10,8 +10,8 @@ import org.springframework.util.StringUtils;
 import java.io.File;
 import java.io.IOException;
 
-import static com.anki.md.ankimarkdown.service.MarkdownService.CARD_SEPARATOR;
-import static com.anki.md.ankimarkdown.service.MarkdownService.FIELD_SEPARATOR;
+import static com.anki.md.ankimarkdown.service.MarkdownService.PLANE_TEXT_CARD_SEPARATOR;
+import static com.anki.md.ankimarkdown.service.MarkdownService.PLANE_TEXT_FIELD_SEPARATOR;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class MarkdownServiceTest {
@@ -29,8 +29,8 @@ class MarkdownServiceTest {
 
         final String result = this.markdownService.convertMarkdownToNotesPlaneText(file);
 
-        final int numberOfCardSeparators = StringUtils.countOccurrencesOf(result, CARD_SEPARATOR);
-        final int numberOfFieldSeparators = StringUtils.countOccurrencesOf(result, FIELD_SEPARATOR);
+        final int numberOfCardSeparators = StringUtils.countOccurrencesOf(result, PLANE_TEXT_CARD_SEPARATOR);
+        final int numberOfFieldSeparators = StringUtils.countOccurrencesOf(result, PLANE_TEXT_FIELD_SEPARATOR);
         assertEquals(1, numberOfCardSeparators);
         assertEquals(6, numberOfFieldSeparators);
     }
@@ -41,8 +41,8 @@ class MarkdownServiceTest {
 
         final String result = this.markdownService.convertMarkdownToNotesPlaneText(file);
 
-        final int numberOfCardSeparators = StringUtils.countOccurrencesOf(result, CARD_SEPARATOR);
-        final int numberOfFieldSeparators = StringUtils.countOccurrencesOf(result, FIELD_SEPARATOR);
+        final int numberOfCardSeparators = StringUtils.countOccurrencesOf(result, PLANE_TEXT_CARD_SEPARATOR);
+        final int numberOfFieldSeparators = StringUtils.countOccurrencesOf(result, PLANE_TEXT_FIELD_SEPARATOR);
         assertEquals(1, numberOfCardSeparators);
         assertEquals(3, numberOfFieldSeparators);
     }
