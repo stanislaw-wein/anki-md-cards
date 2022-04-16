@@ -8,8 +8,9 @@
 
 ##### Disclaimer: The utility does not have advanced validation and does not cover edge cases.
 
-Like many of you, I use the great [Anki](https://ankiweb.net/) program to study everything. Since I'm used to using markdown and GitHub to save a file's
-history, I created this utility. This utility converts a markdown file into an [Anki](https://ankiweb.net/) file. You can import this file
+Like many of you, I use the great [Anki](https://ankiweb.net/) application to study everything. Since I'm used to
+using [Markdown](https://www.markdownguide.org/cheat-sheet/) and GitHub to save a file's history, I created this utility. It converts
+a [Markdown](https://www.markdownguide.org/cheat-sheet/) file into an [Anki](https://ankiweb.net/) file. You can import this file
 into [Anki](https://ankiweb.net/).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
